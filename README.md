@@ -1,4 +1,4 @@
-### Hi there. 👋 
+### Hi there! 
 
 My name is Noam Zimet. I am an enthusiastic software developer with a background in both mechanical engineering and teaching. 
 
