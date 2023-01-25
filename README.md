@@ -11,5 +11,4 @@ My name is Noam Zimet. I am an enthusiastic software developer with a background
 - ⚡ Fun fact: I was twice ranked #4 worldwide in Magic: the Gathering's monthly online rankings out of 10 million users
 
 [![nzoam93's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzoam93&show_icons=true&theme=transparent)](https://github.com/nzoam93/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzoam93&layout=compact&show_icons=true&theme=transparent)](https://github.com/nzoam93/github-readme-stats)
