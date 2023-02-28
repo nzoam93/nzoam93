@@ -2,7 +2,7 @@
 
 My name is Noam Zimet. I am an enthusiastic software developer with a background in both mechanical engineering and teaching. 
 
-- 🔭 I’m a software engineer proficient in React-Redux and Ruby on Rails  
+- 🔭 I’m a full-stack software engineer whose favorite languages and frameworks are React, Redux, Ruby on Rails, and Python
 - ❤️ I am proud of my airBnB clone, [airbNZ](https://airbnz.onrender.com/)
 - 🎮 Check out my game, [Space Bubbles](https://nzoam93.github.io/Space-Bubbles/)! It's similar to the retro game Bubble Trouble.
 - 💬 Ask me about how I switched careers from education into software development
