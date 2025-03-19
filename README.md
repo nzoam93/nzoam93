@@ -1,6 +1,6 @@
 ### Hi there! 
 
-My name is Noam Zimet. I am an enthusiastic software developer with a background in both mechanical engineering and teaching. 
+My name is Noam Zimet. I am an enthusiastic software developer with a professional background in customer success management (Cisco), mechanical engineering (Ford), and teaching (high school math and AP Computer Science teacher).
 
 - 🔭 I’m a full-stack software engineer whose favorite languages and frameworks are React, Redux, Ruby on Rails, and Python
 - ❤️ I am proud of my airBnB clone, [airbNZ](https://airbnz.onrender.com/)
